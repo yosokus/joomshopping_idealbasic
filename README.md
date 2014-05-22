@@ -1,5 +1,4 @@
-joomshopping_idealbasic
-=======================
+#joomshopping_idealbasic
 
 Joomshopping 4.x iDEAL Basic payment plugin
 

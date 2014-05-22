@@ -1,9 +1,11 @@
 <?php
 /**
+ * Joomshopping iDEAL Basic form (frontend)
+ *
  * @package 	JoomShopping
  * @subpackage 	payment
- * @author 		Yos
- * @copyright 	Copyright (C) 2013-2014 Yos. All rights reserved.
+ * @author 		Yos Okusanya
+ * @copyright 	Copyright (C) 2013-2014 Yos Okusanya. All rights reserved.
  * @license 	GNU General Public License version 2 or later
 */
 
